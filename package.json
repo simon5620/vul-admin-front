@@ -1,7 +1,7 @@
 {
   "name": "xboot-front",
   "version": "0.1.0",
-  "description": "x-boot前后端分离开发平台",
+  "description": "vul-console前后端分离开发平台",
   "author": "Exrick <1012139570@qq.com>",
   "private": true,
   "scripts": {
